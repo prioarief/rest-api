@@ -1,0 +1,27 @@
+[{
+
+        "nama": "Prio",
+        "umur": 16,
+        "nisn": "0021190906",
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "guru": {
+            "guru 1": "Syamsuni"
+        }
+    },
+    {
+
+        "nama": "Arief",
+        "umur": 16,
+        "nisn": "0021190906",
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "guru": {
+            "guru 1": "Syamsuni"
+        }
+    }
+]
